@@ -1,0 +1,4 @@
+Login Security System Web Application Based
+Flask, library using – OpenCV, SMTP, SESSION
+•	Web Application based login security system
+•	When, someone enter wrong ID and Password thrice times system will take a photo and store in the local system as well as send into email.
